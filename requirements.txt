@@ -1,1 +1,6 @@
+requests
+bs4
+BeautifulSoup 
+unicodedata
 lxml
+pandas
