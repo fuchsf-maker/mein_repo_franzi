@@ -6,7 +6,6 @@ xlsxwriter
 SPARQLWrapper
 sickle
 pymods
-polymatheia>=0.1.1,<0.2.0
 scipy
 seaborn
 bs4
@@ -16,14 +15,9 @@ plotly
 folium
 streamlit_folium
 pydeck
-tweepy
 altair
 wget
 essentia
-wordcloud
-gensim
-spaCy
-pyLDAvis
 tables
 pyarrow
 matplotlib
